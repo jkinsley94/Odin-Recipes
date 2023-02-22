@@ -1,0 +1,1 @@
+This project is designed to set up a website according to the Odin Project Curriculum. This will showcase my learning progress with HTML, CSS and Javascript as well as being able to make good Git commits and write informative messages about changes I make throughout the project.
